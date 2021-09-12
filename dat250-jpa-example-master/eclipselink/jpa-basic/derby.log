@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Sep 12 17:44:46 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-017b-daae-af18-0000072396d0 
+on database directory /Users/KathrineH/Downloads/dat250-jpa-example-master/eclipselink/jpa-basic/relationsshipDb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@7ad041f3 
+Loaded from file:/Users/KathrineH/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=16.0.2+7-67
+user.dir=/Users/KathrineH/Downloads/dat250-jpa-example-master/eclipselink/jpa-basic
+os.name=Mac OS X
+os.arch=x86_64
+os.version=11.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
